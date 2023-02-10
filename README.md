@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtuZ7
-- 👀 I’m interested in py, lua, web
+- 👀 I’m interested in py, lua, web dev
 - 🌱 I’m currently learning in school
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My Discord server: https://discord.gg/fkM22XjMns 
 - 📫 How to reach me Atu.#7878
 
 <!---
